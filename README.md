@@ -14,7 +14,7 @@ Diving into the nitty-gritty, here's what I'm all about:
 3. React.js adds the spice to my user interfaces. :atom_symbol:
 4. Node.js keeps my servers running at warp speed. :rocket:
 5. Git is my trusty sidekick in version control adventures. :door:
-8. 
+
 ### Get in Touch
 Feel like geeking out over code or brainstorming the next big thing? Drop me a line at codedaydreamer@gmail.com, or let's connect on LinkedIn https://www.linkedin.com/in/code-daydreamer-2a13962b7
 
