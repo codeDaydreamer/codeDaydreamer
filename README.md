@@ -10,12 +10,11 @@ I'm a tech aficionado with a knack for turning wild ideas into functional realit
 Diving into the nitty-gritty, here's what I'm all about:
 
 1. JavaScript is my jam for front-end wizardry. :art:
-2. Python powers my back-end sorcery. :snake:
-3. HTML/CSS form the canvas for my digital art. :art:
-4. React.js adds the spice to my user interfaces. :atom_symbol:
-5. Node.js keeps my servers running at warp speed. :rocket:
-6. SQL helps me tame the data beast. :bar_chart:
-7. Git is my trusty sidekick in version control adventures. :door:
+22. HTML/CSS form the canvas for my digital art. :art:
+3. React.js adds the spice to my user interfaces. :atom_symbol:
+4. Node.js keeps my servers running at warp speed. :rocket:
+5. Git is my trusty sidekick in version control adventures. :door:
+8. 
 ### Get in Touch
 Feel like geeking out over code or brainstorming the next big thing? Drop me a line at codedaydreamer@gmail.com, or let's connect on LinkedIn https://www.linkedin.com/in/code-daydreamer-2a13962b7
 
