@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://giphy.com/gifs/launch-banderas-hijacks-XVR9lp9qUDHmU">via GIPHY</a>
 </p>
+![](https://giphy.com/gifs/launch-banderas-hijacks-XVR9lp9qUDHmU)
 
 
 ### Welcome to My GitHub World! 🌐
