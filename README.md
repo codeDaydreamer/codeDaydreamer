@@ -1,7 +1,10 @@
-<div style="text-align: center;">
-  <iframe src="https://giphy.com/embed/XVR9lp9qUDHmU" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p><a href="https://giphy.com/gifs/launch-banderas-hijacks-XVR9lp9qUDHmU">via GIPHY</a></p>
-</div>
+<p align="center">
+  <iframe src="https://giphy.com/embed/XVR9lp9qUDHmU" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</p>
+<p align="center">
+  <a href="https://giphy.com/gifs/launch-banderas-hijacks-XVR9lp9qUDHmU">via GIPHY</a>
+</p>
+
 
 ### Welcome to My GitHub World! 🌐
 
