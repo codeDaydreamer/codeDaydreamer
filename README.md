@@ -1,13 +1,9 @@
-<p align="center">
-  <iframe src="https://giphy.com/embed/XVR9lp9qUDHmU" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p align="center">### Welcome to My GitHub World! 🌐
+
 </p>
-<p align="center">
-  <a href="https://giphy.com/gifs/launch-banderas-hijacks-XVR9lp9qUDHmU">via GIPHY</a>
-</p>
-![](https://giphy.com/gifs/launch-banderas-hijacks-XVR9lp9qUDHmU)
 
 
-### Welcome to My GitHub World! 🌐
+
 
 Hey there, fellow tech enthusiasts! I'm Code Daydreamer, and this is my playground where I weave lines of code into dreams of innovation and creativity.
 
