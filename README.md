@@ -9,14 +9,14 @@ Hey there, fellow tech enthusiasts! I'm Kelvin Karanja, and this is my playgroun
 
 ### About Me
 I'm a tech enthusiast ,turning wild ideas into functional reality. From tinkering with algorithms to developing intricate systems, I thrive on the thrill of solving complex puzzles in the digital realm.
-Visit my Website to catch a glimpse of my work - https://codedaydreamer.github.io/backup-codespace/
+Visit my Website to catch a glimpse of my work - https://profile.kevkaranja.com/
 
 ### Tech Stack
 Diving into the nitty-gritty, here's what I'm all about:
 
 1. JavaScript is my trusted charm for front-end . :art:
 22. HTML/CSS form the canvas for my digital art. :art:
-3. React.js adds the spice to my user interfaces. :atom_symbol:
+3. Vue.js adds the spice to my user interfaces. :atom_symbol:
 4. Node.js keeps my servers running at warp speed. :rocket:
 5. Git is my trusty sidekick in version control adventures. :door:
 
