@@ -9,7 +9,7 @@ Hey there, fellow tech enthusiasts! I'm Kelvin Karanja, and this is my playgroun
 
 ### About Me
 I'm a tech enthusiast ,turning wild ideas into functional reality. From tinkering with algorithms to developing intricate systems, I thrive on the thrill of solving complex puzzles in the digital realm.
-Visit my Website to catch a glimpse of my work - https://profile.kevkaranja.com/
+Visit my Website to catch a glimpse of my work - [View Kevin](https://kevkaranja.com)
 
 ### Tech Stack
 Diving into the nitty-gritty, here's what I'm all about:
