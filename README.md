@@ -23,8 +23,9 @@ Diving into the nitty-gritty, here's what I'm all about:
 7. **Git** is my trusty sidekick in version control adventures. 🚪  
 
 
-### Get in Touch
-Feel like geeking out over code or brainstorming the next big thing? Drop me a line at codedaydreamer@gmail.com, **Whatsapp -** https://wa.me/qr/SLBSJXSYFBPWN1 or let's connect on LinkedIn https://www.linkedin.com/in/code-daydreamer-2a13962b7
+### Get in Touch  
+Feel like geeking out over code or brainstorming the next big thing? Drop me a line at **codedaydreamer@gmail.com**, **[WhatsApp](https://wa.me/qr/SLBSJXSYFBPWN1)**, or let's connect on **[LinkedIn](https://www.linkedin.com/in/kelvin-karanja-1417b7322/)**.  
+ 
 
 ### Contributions Welcome!
 Got a killer idea or a bug to squash? Contributions are more than welcome! Check out the guidelines in each project's repository and let's make some tech magic together.
