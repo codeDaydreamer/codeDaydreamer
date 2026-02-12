@@ -1,43 +1,45 @@
 # Hi, I'm Kelvin Karanja 
 
-**Full-Stack Software Engineer | Specialized in High-Performance Backends & Scalable Web Apps**
+**Full-Stack Software Engineer | Co-Founder at [816 Dynamics](https://816-dynamics.com)**
 
-I build robust digital systems with a focus on efficiency, clean architecture, and seamless user experiences. Having transitioned from exploring early concepts to shipping production-ready code, I now focus on bridging the gap between complex backend logic and intuitive frontend design.
+I am a software engineer dedicated to building scalable, secure, and high-performance digital solutions. Currently, I am a developer at **816 Dynamics**, where my team and I focus on empowering Small and Medium Enterprises (SMEs) by providing modern tech infrastructure that drives growth and operational efficiency.
 
-[**Explore My Portfolio**](https://kevkaranja.com)
-
----
-
-### Tech Stack
-
-**Languages & Core**
-* **Go:** Building high-performance, concurrent backend services.
-* **JavaScript (ES6+):** Crafting dynamic logic and interactive features.
-* **HTML5 & CSS3:** Implementing pixel-perfect, responsive layouts.
-
-**Frameworks & Ecosystem**
-* **Vue.js & Nuxt.js:** Developing SEO-friendly, modular SPAs and SSR applications.
-* **Node.js:** Architecting scalable server-side environments.
-* **Git:** Version control and collaborative workflow management.
+[**View Portfolio**](https://kevkaranja.com) | [**816 Dynamics**](https://816-dynamics.com)
 
 ---
 
-### Featured Work & Contributions
-I’m passionate about open-source and building tools that solve real-world problems. 
+### Technical Expertise
 
-* **Current Focus:** Optimizing backend throughput and exploring microservices.
-* **Collaboration:** I’m always open to interesting projects or technical discussions. Check my repositories to see what I’ve been shipping lately.
+**Backend & Systems**
+* **Go (Golang):** Architecting high-concurrency services and robust backends.
+* **Node.js & JavaScript:** Building scalable server-side applications and APIs.
+* **Frappe Framework:** Developing rapid, enterprise-grade business applications.
+* **Keycloak:** Implementing secure Identity and Access Management (IAM).
+* **Debian/Linux:** Managing environments and deploying on stable, secure systems.
+
+**Frontend & Mobile**
+* **Flutter:** Crafting high-performance, cross-platform mobile experiences.
+* **Vue.js & Nuxt.js:** Building SEO-optimized, reactive web interfaces.
+* **Tailwind CSS:** Implementing clean, responsive, and modern UI designs.
+
+---
+
+### Current Focus: Tech for SMEs
+At **816 Dynamics**, we bridge the gap between complex technology and business needs. My recent work involves:
+* **Enterprise Solutions:** Leveraging **Frappe** to streamline ERP and CRM workflows.
+* **Security:** Integrating **Keycloak** for centralized authentication and security.
+* **Infrastructure:** Deploying and maintaining production environments on **Debian** servers.
 
 ---
 
 ### Let's Connect
-Whether you want to discuss system design, a potential project, or just talk tech:
+I'm always open to technical discussions, open-source collaboration, or talking about how tech can solve local business challenges.
 
-* **Email:** [codedaydreamer@gmail.com](mailto:codedaydreamer@gmail.com)
 * **LinkedIn:** [Kelvin Karanja](https://www.linkedin.com/in/kelvin-karanja-1417b7322/)
-* **WhatsApp:** [Message Me](https://wa.me/qr/SLBSJXSYFBPWN1)
+* **Email:** [codedaydreamer@gmail.com](mailto:codedaydreamer@gmail.com)
+* **WhatsApp:** [Get in Touch](https://wa.me/qr/SLBSJXSYFBPWN1)
 
 ---
 
-### ⚡ Quick Byte
-When I'm not at the keyboard, I'm usually diving deep into technical documentation or exploring the latest shifts in the Go ecosystem.
+### ⚡ Professional Philosophy
+I believe in building with purpose. Whether it's a POS system or a poultry management platform, the goal is always the same: **Efficiency, Scalability, and Security.**
