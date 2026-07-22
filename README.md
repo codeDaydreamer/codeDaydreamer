@@ -4,7 +4,7 @@
 
 I am a software engineer dedicated to building scalable, secure, and high-performance digital solutions. Currently, I am a developer at **816 Dynamics**, where my team and I focus on empowering Small and Medium Enterprises (SMEs) by providing modern tech infrastructure that drives growth and operational efficiency.
 
-[**View Portfolio**](https://kevkaranja.com) | [**816 Dynamics**](https://816-dynamics.com)
+[**Explore 816 Dynamics**](https://816-dynamics.com)
 
 ---
 
