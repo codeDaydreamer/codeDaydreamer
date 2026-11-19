@@ -2,7 +2,7 @@
 
 **Software Engineer**
 
-am a software engineer professionally turning coffee, questionable life choices, and endless debugging sessions into scalable, secure, high-performance solutions. Because apparently, making things work wasn't challenging enough.
+I am a software engineer professionally turning coffee, questionable life choices, and endless debugging sessions into scalable, secure, high-performance solutions. Because apparently, making things work wasn't challenging enough.
 
 ---
 
