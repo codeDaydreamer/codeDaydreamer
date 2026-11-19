@@ -1,10 +1,8 @@
 # Hi, I'm Kelvin Karanja 
 
-**Full-Stack Software Engineer | Dev at [816 Dynamics](https://816-dynamics.com)**
+**Software Engineer**
 
-I am a software engineer dedicated to building scalable, secure, and high-performance digital solutions. Currently, I am a developer at **816 Dynamics**, where my team and I focus on empowering Small and Medium Enterprises (SMEs) by providing modern tech infrastructure that drives growth and operational efficiency.
-
-[**Explore 816 Dynamics**](https://816-dynamics.com)
+am a software engineer professionally turning coffee, questionable life choices, and endless debugging sessions into scalable, secure, high-performance solutions. Because apparently, making things work wasn't challenging enough.
 
 ---
 
